@@ -97,3 +97,10 @@ In this task, I learned how to deploy an application on AWS EKS using Terraform,
 I also learned how GitHub and ArgoCD work together to automatically update an application.
 
 This task helped me improve my practical DevOps skills.
+
+
+## Application Configuration
+
+Helm charts and ArgoCD configuration are available in my existing repository:
+
+[Helm and ArgoCD Configuration](https://github.com/coder-hs786/helm-task13.git/feature/sara)
