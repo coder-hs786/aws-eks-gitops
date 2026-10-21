@@ -61,35 +61,34 @@ I also opened the e-commerce frontend in the browser to verify that it was acces
 - Connected GitHub with ArgoCD.
 - Successfully tested automatic synchronization.
 - Accessed the frontend application in the browser.
-
 ## Screenshots
 
 ### 1. Terraform Deployment
-![Terraform Deployment](screenshots/terraform-completed.png)
+![Terraform Deployment](screenshots/terraform-completed.PNG)
 
 ### 2. EKS Nodes and Pods
-![EKS Nodes](screenshots/eks-nodes-pods.png)
+![EKS Nodes](screenshots/eks-nodes-pods.PNG)
 
 ### 3. ArgoCD Installation
-![ArgoCD Installation](screenshots/argocd-installation.png)
+![ArgoCD Installation](screenshots/argocd-installation.PNG)
 
 ### 4. ArgoCD Healthy and Synced
-![ArgoCD Status](screenshots/argocd-healthy-synced.png)
+![ArgoCD Status](screenshots/argocd-healthy-synced.PNG)
 
 ### 5. Kubernetes Resources
-![Kubernetes Resources](screenshots/kubernetes-resources.png)
+![Kubernetes Resources](screenshots/kubernetes-resources.PNG)
 
 ### 6. MongoDB Storage
-![MongoDB Storage](screenshots/mongodb-storage.png)
+![MongoDB Storage](screenshots/mongodb-storage.PNG)
 
 ### 7. Frontend Replicas
-![Frontend Replicas](screenshots/frontend-replicas.png)
+![Frontend Replicas](screenshots/frontend-replicas.PNG)
 
 ### 8. ArgoCD Auto-Sync
-![ArgoCD Auto-Sync](screenshots/argocd-auto-sync.png)
+![ArgoCD Auto-Sync](screenshots/argocd-auto-sync.PNG)
 
 ### 9. Frontend Application
-![Frontend Application](screenshots/frontend-running.png)
+![Frontend Application](screenshots/frontend-running.PNG)
 
 ## Conclusion
 
